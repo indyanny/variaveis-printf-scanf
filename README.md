@@ -1,8 +1,8 @@
 # Variaveis-printf-scanf
 Linguagem C com uso de:
 
--variáveis;
+- variáveis;
 
--printf;
+- printf;
 
--scanf.
+- scanf.
